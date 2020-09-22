@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Find_the_pair_in_array_whose_sum_is_closest_to_x</RootNamespace>
+  </PropertyGroup>
+
+</Project>
